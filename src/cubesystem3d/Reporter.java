@@ -6,5 +6,8 @@ package cubesystem3d;
  * @author bernat
  */
 public class Reporter {
-    
+ 
+    public int missingMethod(){
+        return 2+3;
+    }
 }
