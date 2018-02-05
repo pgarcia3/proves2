@@ -15,4 +15,13 @@ public class SuperDuperUtil {
         
     }
     
+    
+    public int enableCyclomaticComplexity() {
+        int i=0;
+        if(i==0) {
+            System.out.println("What else where you expecting?");
+        }
+        return 0;
+    }
+    
 }
