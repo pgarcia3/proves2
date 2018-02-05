@@ -8,6 +8,10 @@ package cubesystem3d;
 public class Reporter {
  
     public int missingMethod(){
-        return 2+3;
+        return moreAdvancedCalculus();
     }
+    
+    public int moreAdvancedCalculus(){
+      return 2+3;  
+    } 
 }
