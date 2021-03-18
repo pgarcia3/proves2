@@ -12,6 +12,7 @@ public class RainMan {
     private int mmRain;
     
     public RainMan() {
+            // Hola bon dia
     }
 
     public int getDay() {
