@@ -14,8 +14,8 @@ public class RainMan {
     public RainMan() {
             
             // Hola bon dia
-            int i=0;
-            i++;
+            int i=1;
+            
     }
 
     public int getDay() {
